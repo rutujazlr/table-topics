@@ -31,7 +31,7 @@ st.markdown("***", unsafe_allow_html=True)
 c1, c2, c3 = st.columns([1, 3, 1])
 c2.markdown(
     """
-<h2 style="font-family:Garamond;color:#3378b0"><center>Table Topics</center></h2>
+<h2 style="font-family:Garamond;color:#3378b0"><center>Debate Topics</center></h2>
 """,
     unsafe_allow_html=True,
 )
