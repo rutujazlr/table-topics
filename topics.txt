@@ -1,39 +1,39 @@
-Should the company provide flexible working hours?
-Should dress codes be enforced in the workplace?
-Should the company implement a four-day workweek?
-Should the company offer on-site childcare facilities?
-Should performance-based bonuses be implemented?
-Should employees be allowed to bring pets to work?
-Should the company provide employee wellness programs?
-Should social media access be restricted during work hours?
-Should the company provide paid parental leave?
-Should employees be allowed to use personal devices for work purposes?
-Should the company implement a mentorship program for career development?
-Should the company provide additional training and education opportunities for employees?
-Should the company offer sabbatical leave for long-term employees?
-Should the company establish a formal telecommuting policy?
-Should the company implement a casual dress code policy?
-Should the company provide subsidies for public transportation or carpooling?
-Should employees have the option to choose their own projects or assignments?
-Should the company implement a system for anonymous feedback and suggestions?
-Should the company establish a diversity and inclusion program?
-Should employees have the option to work compressed workweeks?
-Should the company offer employee recognition and rewards programs?
-Should the company provide opportunities for remote team-building activities?
-Should the company promote a culture of work-life balance?
-Should the company encourage employees to take regular breaks and vacations?
-Should the company implement a BYOD (Bring Your Own Device) policy?
-Should the company provide opportunities for cross-departmental collaboration?
-Should the company offer financial wellness programs for employees?
-Should the company establish a formal teleconferencing and virtual meeting policy?
-Should the company provide opportunities for employees to volunteer in the community?
-Should the company implement a system for anonymous whistleblowing?
-Should the company offer incentives for employees to pursue further education or certifications?
-Should the company implement a system for regular performance feedback and evaluations?
-Should employees have the option to work flexible shifts or alternative schedules?
-Should the company provide opportunities for professional networking and industry events?
-Should the company establish a formal policy for workplace conflict resolution?
-Should the company offer opportunities for job rotation and cross-training?
-Should the company provide opportunities for employees to work on passion projects?
-Should the company implement a system for employee suggestion and idea generation?
-Should the company offer opportunities for employees to attend conferences and seminars?
+Is homework beneficial for students?
+Should zoos be banned?
+Is social media more harmful than beneficial?
+Should cell phones be allowed in schools?
+Is television a good source of education?
+Should junk food be banned in schools?
+Is video gaming harmful to young people?
+Should the voting age be lowered to 16?
+Is homeschooling better than traditional schooling?
+Should plastic bags be banned?
+Is space exploration a waste of resources?
+Should animal testing be allowed for medical research?
+Is climate change a natural occurrence?
+Should the government provide free healthcare for all citizens?
+Is fast food responsible for the rise in obesity rates?
+Should smoking be banned in public places?
+Is technology making people more isolated?
+Should the minimum wage be increased?
+Is nuclear energy a viable solution to the world's energy needs?
+Should assisted suicide be legalized?
+Is genetically modified food safe for consumption?
+Should recreational marijuana use be legalized?
+Is privacy more important than national security?
+Should capital punishment be abolished?
+Is homeschooling an effective alternative to traditional schooling?
+Should the legal drinking age be lowered?
+Is online learning as effective as classroom learning?
+Should the government regulate or control gun ownership?
+Is social media causing a decline in face-to-face interactions?
+Should parents be held legally responsible for their children's actions?
+Is censorship necessary in the media and arts?
+Should public schools teach sex education?
+Is there a need for stricter gun control laws?
+Should standardized testing be abolished in education?
+Is it ethical to use animals for scientific research?
+Should the use of performance-enhancing drugs be allowed in sports?
+Is it ethical to clone animals or humans?
+Should the death penalty be abolished?
+Should the use of surveillance cameras in public places be increased?
