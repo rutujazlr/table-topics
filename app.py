@@ -2,7 +2,7 @@ import streamlit as st
 import numpy as np
 
 st.set_page_config(
-    page_title="Zelar | Table Topics",
+    page_title="Zelar | Debate Topics",
     page_icon="https://cdn-icons-png.flaticon.com/512/2572/2572201.png",
     layout="wide",
     initial_sidebar_state="auto",
