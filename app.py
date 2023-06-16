@@ -50,7 +50,7 @@ topics = getTopics("topics.txt")
 c1, c2, c3 = st.columns([2, 1, 2])
 
 if c2.button("Generate Random Topic", use_container_width=True):
-    st.markdown("""<p><center>Your Topic is</center></p>""", unsafe_allow_html=True)
+    st.markdown("""<p><center>Today's Topic is</center></p>""", unsafe_allow_html=True)
     c1, c2, c3 = st.columns([1, 3, 1])
     c2.markdown(
         f"""<h2 style="font-family:ravnsara sans"><center>{np.random.choice(topics)}</center></h2>""",
